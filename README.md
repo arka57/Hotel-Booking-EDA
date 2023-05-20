@@ -130,11 +130,11 @@ HB -though very less but still more preferred in Resort Hotel BB meal bookings h
 Median ADR is increasing consistently with passage of year
 
 # Business Suggestions
- --Rates can be reduced to fill occupancy in winter months
- --More rooms of type A should be introduced in the hotels because of high demand
- --Strive to get more repeated guests as they have lesser trend of cancellations
+ --Rates can be reduced to fill occupancy in winter months<br>
+ --More rooms of type A should be introduced in the hotels because of high demand<br>
+ --Strive to get more repeated guests as they have lesser trend of cancellations<br>
  
 # Challenges
---Presence of Duplicate Data
---Variation in data
+--Presence of Duplicate Data<br>
+--Variation in data<br>
 
