@@ -77,56 +77,56 @@ Along with them the Pandas and NumPy libraries were used for performing the EDA
 
 # Insights/Conclusions
 
-1)More City Hotel Bookings are done in comparison to Resort Hotel
+## 1)More City Hotel Bookings are done in comparison to Resort Hotel
 
-2)As per given data hotel booking increased from 2015 to 2016 and then decreased on 2017. Also more percentage of hotels are cancelled in 2016 and 2017
+## 2)As per given data hotel booking increased from 2015 to 2016 and then decreased on 2017. Also more percentage of hotels are cancelled in 2016 and 2017
 
-3)Bookings(Arrivals) consistently increased from January and peaked in July(Summer Months) and August .On subsequent months it got reduced Data is vastly differing over the years. But winter has less demand in each years
+## 3)Bookings(Arrivals) consistently increased from January and peaked in July(Summer Months) and August .On subsequent months it got reduced Data is vastly differing over the years. But winter has less demand in each years
 
-4)ADR over the years have increased. More ADR during summer months. It reduces during the winter months corroborating with lesser hotels booked in winters
+## 4)ADR over the years have increased. More ADR during summer months. It reduces during the winter months corroborating with lesser hotels booked in winters
 
-5)No trend between cancellation and weekend staying
+## 5)No trend between cancellation and weekend staying
 
-6)Highest number of bookings are from Portugal
+## 6)Highest number of bookings are from Portugal
 
-7)Most of the data fall into market segment of Online TA whether City or Resort Hotel
-
-
-8)Most reserved room is A .It has the highest demand among customers
+## 7)Most of the data fall into market segment of Online TA whether City or Resort Hotel
 
 
-9)Repeated guests are very very less in number in comparison to total no of bookings
-
-10)Repeated guests tend to cancel hotel booking lesser compared to non repeated guests
+## 8)Most reserved room is A .It has the highest demand among customers
 
 
-11)Most of the hotel bookings are done without any advance payment
+## 9)Repeated guests are very very less in number in comparison to total no of bookings
 
-12)In City hotel there is slight higher trend of cancellation among Transient Customers
+## 10)Repeated guests tend to cancel hotel booking lesser compared to non repeated guests
 
-13)Agent 9 has highest bookings. 2-3 agents have more than 10000 bookings. Rest are in range of 1000 and less. Agents are divided into 2-3 bigger players
+
+## 11)Most of the hotel bookings are done without any advance payment
+
+## 12)In City hotel there is slight higher trend of cancellation among Transient Customers
+
+## 13)Agent 9 has highest bookings. 2-3 agents have more than 10000 bookings. Rest are in range of 1000 and less. Agents are divided into 2-3 bigger players
 
 Agent 9 is specialized more into Hotel Booking. 99% of booking through 9 are of City type
 Agent 240 is specialized more into Resort Booking. 95% of booking through 240 are of Resort type
 
-14)Majority of users prefer BB type meal
+## 14)Majority of users prefer BB type meal
 
 HB -though very less but still more preferred in Resort Hotel BB meal bookings have slightly has less ADR and that's why may be has highest consumption
 
 
-15)ADR of city hotels are more than Resort Hotel. There is no relation between canceling and adr
+## 15)ADR of city hotels are more than Resort Hotel. There is no relation between canceling and adr
 
 
-16)Median adr of Room F is highest but its demand is less.
+## 16)Median adr of Room F is highest but its demand is less.
 
 
-17)For repeated guests the median adr is lower
+## 17)For repeated guests the median adr is lower
 
 
-18)Most number of total stays are under 5 days. Above 10 are negligible . Trend is if stay is more than 10 days the median adr is slightly less
+## 18)Most number of total stays are under 5 days. Above 10 are negligible . Trend is if stay is more than 10 days the median adr is slightly less
 
 
-19)Slight increase in ADR if weekend nights are stayed in hotel
+## 19)Slight increase in ADR if weekend nights are stayed in hotel
 Median ADR is increasing consistently with passage of year
 
 # Business Suggestions
